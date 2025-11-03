@@ -1,5 +1,5 @@
 public class Forest extends  BattleLocation{
     public Forest(Player player) {
-        super(player,"Orman", new Vampir() );
+        super(player,"Orman", new Vampir(),"Firewood" );
     }
 }
